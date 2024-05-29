@@ -18,3 +18,5 @@ The final recommendations for HQ2 locations are based on a combination of the pr
 HQ2 Analysis_Documentation v1.0.docx: Detailed documentation of the analysis methodology, data sources, and findings.
 
 Python script: The script used for data scraping in the secondary analysis.
+
+uszips : Zip File to map zipcodes to latitude and longitude.
